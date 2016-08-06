@@ -19,7 +19,6 @@ def play(txtPath):
 		txt_count += 1
 
 if __name__ == '__main__':
-	videoPath = '/Users/mac/Desktop/badapple.avi'
 	txt_dir_path = '/Users/mac/Desktop/badapple/txt/'
 	img_dir_path = '/Users/mac/Desktop/badapple/images/'
 	getTxt(img_dir_path, txt_dir_path)
